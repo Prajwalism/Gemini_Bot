@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-16">
       <div className="text-center">
-        <h1>Prajwal-GPT</h1>
+        <h1>Work in Progress...</h1>
         {renderForm()}
         {renderMessages()}
       </div>
